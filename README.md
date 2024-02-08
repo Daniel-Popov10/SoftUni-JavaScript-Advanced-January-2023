@@ -1,4 +1,4 @@
-# JavaScript-Advanced-SoftUni-January-2023
+# SoftUni-JavaScript-Advanced-January-2023
 
 ## The course covers the following topics:
 
