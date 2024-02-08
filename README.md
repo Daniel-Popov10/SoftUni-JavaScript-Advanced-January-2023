@@ -1,6 +1,6 @@
 # JavaScript-Advanced-SoftUni-January-2023
 
-##The course covers the following topics:
+## The course covers the following topics:
 
 1. Syntax, Functions and Statements
 2. Arrays and Nested Arrays
